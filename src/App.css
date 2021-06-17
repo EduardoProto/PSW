@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 5%;
+}
+.card{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: beige;
+  height: 100px;
+  width: 250px;
+}
+.sup{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: rgb(255, 255, 255);
+  margin:10%;
+}
+.addr{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: rgb(126, 180, 176);
+}
